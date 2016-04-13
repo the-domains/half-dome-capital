@@ -1,0 +1,28 @@
+name: Half Dome Capital
+favicon: null
+layout_spectrum: 0.9834631257690489
+typography_spectrum: 0.7825203218962997
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.042686664033681154
+  lightness: 0.7146477436181158
+  saturation: 0.06805346999317408
+  rhythmicContrast: 0.9387103142216802
+purpose: []
